@@ -1,0 +1,16 @@
+{
+"name": "Bnk69slot",
+"theme": "Bnk69 slot",
+"version": "10.3.2",
+"description": "Bnk69 slot ทางเข้าหลักเว็บบาคาร่าเว็บตรง ไม่ผ่านเอเย่นต์ รับเงินเครดิตฟรี",
+"keywords": [
+"Bnk69 slot",
+"Bnk69 slot เครดิตฟรี",
+"Bnk69 slot ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/Bnk69slot",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
